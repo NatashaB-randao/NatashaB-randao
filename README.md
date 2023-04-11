@@ -26,7 +26,7 @@
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
   
 
-### Studying in this moment:
+### Currently studying:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
   
 <div align="center">
