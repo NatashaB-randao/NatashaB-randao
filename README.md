@@ -16,6 +16,7 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/natasha-brandão/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.notion.so/b320d0983fa742e5aa2ddb398393aa2d?v=49289311f9184ca48a369d22cad09dcd" target="_blank"><img src="https://img.shields.io/badge/Notion-00CED1?style=for-the-badge&logo=notion&logoColor=white"</a>
 </div> 
   
 ### Tools:
