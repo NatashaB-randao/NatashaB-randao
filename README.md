@@ -16,6 +16,7 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/natasha-brandão/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://instagram.com/nat_ios_developer?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
