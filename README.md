@@ -29,6 +29,7 @@
 
 ### Currently studying:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
