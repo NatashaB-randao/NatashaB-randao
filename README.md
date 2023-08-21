@@ -16,6 +16,7 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/natasha-brandão/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://web.dio.me/users/natashabrandao57?name=&page=1==" target="_blank"><img src="https://img.shields.io/badge/DIO-840010?style=for-the-badge&logo=DIO&logoColor=white"</a>
 <a href="https://instagram.com/nat_ios_developer?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.kaggle.com/natashabrando" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"</a>
   
