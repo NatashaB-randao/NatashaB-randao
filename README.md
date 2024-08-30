@@ -34,8 +34,8 @@
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
 ### Currently studying:
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
