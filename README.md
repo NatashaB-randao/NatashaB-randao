@@ -17,7 +17,7 @@
 <div align="center">  
 <a href="https://www.linkedin.com/in/natasha-brandão/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://sites.google.com/view/portflionatashabrando/início" target="_blank"><img src="https://img.shields.io/badge/Portfolio Data-E6007A?style=for-the-badge&logo=Portfolio Data&logoColor=000"</a>
-<a href="https://sites.google.com/view/natashabrandaofront" target="_blank"><img src="https://img.shields.io/badge/Portfolio Front End-4CAF50?style=for-the-badge&logo=Portfolio%20Data&logoColor=ffffff"></a>
+<a href="https://natashab-randao.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio Front End-4CAF50?style=for-the-badge&logo=Portfolio%20Data&logoColor=ffffff"></a>
 <a href="https://web.dio.me/users/natashabrandao57?name=&page=1==" target="_blank"><img src="https://img.shields.io/badge/DIO-840010?style=for-the-badge&logo=DIO&logoColor=white"</a>
 <a href="https://instagram.com/nat_developer?igshid=NGVhN2U2NjQ0Yg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.kaggle.com/natashabrando" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"</a>
